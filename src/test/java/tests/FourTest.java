@@ -17,7 +17,7 @@ public class FourTest extends Base{
 	public void testFour() throws IOException, InterruptedException {
 		
 		System.out.println("Sana has updated this code by downloading from Github.......");
-		
+		System.out.println("Sana second update after creating new branch sbranch");
 		System.out.println("------------> Test Four testing method");
 		 driver = initializeBrowser();
 		driver.get("http://tutorialsninja.com/demo/");
